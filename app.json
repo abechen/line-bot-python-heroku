@@ -2,6 +2,6 @@
   "name": "line-bot-python-heroku",
   "description": "Line Bot With Python and Heroku",
   "repository": "https://github.com/abechen/line-bot-python-heroku.git",
-  "logo": "",
+  "logo": "https://dl.dropboxusercontent.com/u/21027458/line.png",
   "keywords": ["line", "bot", "python", "heroku"]
 }
