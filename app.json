@@ -1,0 +1,7 @@
+{
+  "name": "line-bot-python-heroku",
+  "description": "Line Bot With Python and Heroku",
+  "repository": "https://github.com/abechen/line-bot-python-heroku.git",
+  "logo": "",
+  "keywords": ["line", "bot", "python", "heroku"]
+}
