@@ -13,7 +13,7 @@ Fixie : [https://elements.heroku.com/addons/fixie](https://elements.heroku.com/a
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abechen/line-bot-python-heroku)
 
 3. 修改app.py參數  
-`line_bot_api = LineBotApi('') #Your Channel Access Token`
+`line_bot_api = LineBotApi('') #Your Channel Access Token`  
 `handler = WebhookHandler('') #Your Channel Secret` 
 
 4. Add-ons Fixie  
